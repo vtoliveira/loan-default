@@ -142,7 +142,7 @@ psutil==5.7.0
 ptyprocess==0.6.0
 pycparser==2.19
 pyct==0.4.6
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 pymdown-extensions==6.3
 pyodbc==4.0.28
