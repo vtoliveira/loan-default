@@ -132,7 +132,7 @@ patsy==0.5.1
 pexpect==4.7.0
 phik==0.9.11
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==9.0.1
 plotly==4.5.2
 pmdarima==1.5.3
 port-for==0.3.1
