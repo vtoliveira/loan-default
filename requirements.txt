@@ -116,7 +116,7 @@ notebook==6.0.1
 ntlm-auth==1.4.0
 numba==0.49.1
 numexpr==2.7.1
-numpy==1.18.2
+numpy==1.22.0
 olefile==0.46
 osqp==0.6.1
 packaging==20.1
